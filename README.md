@@ -2,6 +2,6 @@
 
 Web presentation decks for the Database Lab course.
 
-**Live:** https://sorooshba.github.io/SHU-DB-Lab-Fall2026/ — *placeholder, replace once GitHub Pages is enabled*
+**Live:** https://sorooshba.github.io/SHU-DB-Lab-Fall2026/
 
 Open `index.html` in a browser and click **Present**.
